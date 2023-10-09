@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name        b站显示直播间分区
 // @namespace   Violentmonkey Scripts
+// @supportURL  https://space.bilibili.com/35192025
 // @grant       none
-// @version     1.0
+// @version     1.01
 // @author      铂屑
-// @license      MIT
-// @include      /https?:\/\/live\.bilibili\.com\/(blanc\/)?\d+\??.*/
-// @require      https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
-// @grant        none
+// @license     MIT
+// @include     /https?:\/\/live\.bilibili\.com\/(blanc\/)?\d+\??.*/
+// @require     https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
+// @grant       none
 // @icon        https://www.google.com/s2/favicons?domain=bilibili.com
 // @description 显示直播间所在分区并提供链接
 // ==/UserScript==
